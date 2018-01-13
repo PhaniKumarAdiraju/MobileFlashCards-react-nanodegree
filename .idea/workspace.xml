@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50905b4b-9fb7-401e-8029-c223b08e9029" name="Default" comment="" />
+    <list default="true" id="50905b4b-9fb7-401e-8029-c223b08e9029" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.flowconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mobile-flashcards.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.watchmanconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/actionTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/actions/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/card/NewCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/deck/Deck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/deck/DeckTile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/deck/Decks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/deck/NewDeck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/quiz/Quiz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reducers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/notificationAPI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/storeAPI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -301,12 +329,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515813604634</updated>
-      <workItem from="1515813606237" duration="18957000" />
+      <workItem from="1515813606237" duration="19075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18957000" />
+    <option name="totallyTimeSpent" value="19075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="24" width="1280" height="722" extended-state="6" />
