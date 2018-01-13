@@ -1,5 +1,5 @@
 # Mobile-FlashCards : react-nanodegree
-This is a mobile application (Android and iOS) that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
+This is a mobile application (Android and iOS) developed in react-native that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
 # Specific Requirements
 Use create-react-native-app to build your project.
@@ -11,9 +11,10 @@ Users should be able to quiz themselves on a specific deck and receive a score o
 Users should receive a notification to remind themselves to study if they haven't already for that day.
 
 To get started:
-1. cd Mobile-FlashCards : to change to the directory
-2. npm install : to install all project dependencies
-3. npm start: to start the development server
+1. clone the repository
+2. cd Mobile-FlashCards : to change to the directory
+3. npm install : to install all project dependencies
+4. npm start: to start the development server
 
 To Run the app:
 1. You either need simulators for android/iOS or have physical devices to run the app
